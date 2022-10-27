@@ -3,7 +3,7 @@ import { useUserStore } from '@/stores/user'
 import { useRoute } from 'vue-router'
 const userStore = useUserStore()
 const route = useRoute()
-console.log()
+console.log();
 
 defineProps({
     msg: String,

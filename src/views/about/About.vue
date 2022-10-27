@@ -23,6 +23,7 @@ const logout = () => {
         <button v-if="userStore.name" @click="logout">logout</button>
         <button v-else @click="login">login</button>
     </div>
+    <p>add some text </p>
 </template>
 
 <style scoped lang="scss">

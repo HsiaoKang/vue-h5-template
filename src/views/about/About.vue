@@ -10,7 +10,7 @@ defineProps({
 })
 
 const login = () => {
-    userStore.login()
+    userStore.login();
 }
 const logout = () => {
     userStore.logout()

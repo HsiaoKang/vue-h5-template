@@ -1,14 +1,12 @@
-# Project Name
+# Vue project template for mobile
 
-## 技术栈
+## The technology used
 
-vite + vue3 + vue-router4 + Pinia + SASS + postcss + WindiCSS
+vite + pnpm + vue3 + vue-router4 + Pinia + SASS + postcss + WindiCSS + px2viewport
 
-包管理工具 [pnpm](https://pnpm.io/)
+## About editor
 
-## 编辑器
-
-### VS Code
+### VS Code extensions
 
 -   [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 -   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
